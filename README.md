@@ -1,1 +1,3 @@
-# knn_and_regression_on_3d_printer_data
+# k-Nearest-Neighbor and Regression for predicting type and quality of material printed by a 3D-printer
+
+Project is not finished yet.

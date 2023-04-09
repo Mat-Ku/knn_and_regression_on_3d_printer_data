@@ -1,3 +1,3 @@
-# k-Nearest-Neighbor and Regression for predicting type and quality of material printed by a 3D-printer
+# k-Nearest-Neighbor and Regression for predicting type and quality of 3-D-printed material
 
 Project is not finished yet.
